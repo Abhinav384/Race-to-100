@@ -15,7 +15,7 @@
 <hr>
 
 # So let's Race 🚗 : 
-<p> 🎮 <a href="https://shreyashhake.github.io/Race--to--100/">Play here</a> with your <i>Friend</i> 🕺.</p>
+<p> 🎮 <a href="https://abhinav384.github.io/Race-to-100/">Play here</a> with your <i>Friend</i> 🕺.</p>
 <hr>
 
 # Visuals 🏞 : 
